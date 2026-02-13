@@ -105,4 +105,4 @@ A-K-Q 같은 하이 카드가 깔리면 상대도 겁을 먹어요. "저 사람�
 - [포커 핸드 순위 완벽 정리](/poker-blog/posts/poker-hand-rankings/)
 - [홀덤 포지션별 전략](/poker-blog/posts/holdem-position-strategy/)
 
-더 다양한 포커 정보와 실전 경험은 [pokerclub999.com](https://pokerclub999.com)에서 만나보세요.
+더 다양한 포커 정보와 실전 경험은 [pokerclub999.com](https://pokerclub999.com)에서 만나보세요. 참여 방법이 궁금하다면 [클럽 소개 페이지](/poker-blog/about/)를 확인해보세요.

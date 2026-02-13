@@ -53,6 +53,10 @@ menu:
       name: 블로그
       url: /posts/
       weight: 10
+    - identifier: about
+      name: 클럽소개
+      url: /about/
+      weight: 15
     - identifier: search
       name: 검색
       url: /search/
