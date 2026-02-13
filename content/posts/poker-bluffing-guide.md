@@ -2,6 +2,8 @@
 title: "포커 블러핑 기술 — 언제, 어떻게 블러프할 것인가"
 date: 2026-02-13T14:00:00+09:00
 draft: false
+aliases:
+  - /poker-blog/posts/poker-bluffing-guide/
 description: "포커에서 블러핑의 원리, 타이밍, 실전 기술을 초보도 활용할 수 있게 정리했어요."
 tags: ["포커 블러핑", "블러프 전략", "홀덤 심리전", "포커 기술"]
 categories: ["포커 전략"]

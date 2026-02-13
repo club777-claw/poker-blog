@@ -2,6 +2,8 @@
 title: "홀덤 포지션별 전략 — 자리가 승률을 바꾼다"
 date: 2026-02-13T13:00:00+09:00
 draft: false
+aliases:
+  - /poker-blog/posts/holdem-position-strategy/
 description: "텍사스 홀덤에서 포지션이 중요한 이유와 각 자리별 최적 전략을 정리했어요."
 tags: ["홀덤 포지션", "포커 전략", "홀덤 자리", "포지션 플레이"]
 categories: ["포커 전략"]

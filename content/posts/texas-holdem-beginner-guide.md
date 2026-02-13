@@ -2,6 +2,8 @@
 title: "텍사스 홀덤 초보 가이드 — 규칙부터 기본 전략까지"
 date: 2026-02-13T10:00:00+09:00
 draft: false
+aliases:
+  - /poker-blog/posts/texas-holdem-beginner-guide/
 description: "텍사스 홀덤의 기본 규칙, 게임 진행 순서, 초보자가 알아야 할 핵심 전략을 쉽게 정리했어요."
 tags: ["텍사스 홀덤", "홀덤 규칙", "포커 초보", "홀덤 전략"]
 categories: ["포커 가이드"]

@@ -2,6 +2,8 @@
 title: "포커 확률 계산법 — 아웃츠와 팟 오즈 쉽게 이해하기"
 date: 2026-02-13T12:00:00+09:00
 draft: false
+aliases:
+  - /poker-blog/posts/poker-odds-calculation/
 description: "포커에서 승률을 높이는 핵심, 아웃츠 계산과 팟 오즈 활용법을 초보도 이해할 수 있게 설명해요."
 tags: ["포커 확률", "아웃츠", "팟 오즈", "홀덤 수학"]
 categories: ["포커 전략"]
