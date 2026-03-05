@@ -38,6 +38,11 @@ params:
   assets:
     favicon: "/favicon.ico"
 
+  # Google Search Console 인증 (PaperMod 표준 방식)
+  analytics:
+    google:
+      SiteVerificationTag: "3d5f133c826e1f17"
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
