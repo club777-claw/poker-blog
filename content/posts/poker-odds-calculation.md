@@ -2,6 +2,10 @@
 title: "포커 확률 계산법 — 아웃츠와 팟 오즈 쉽게 이해하기"
 date: 2026-02-13T12:00:00+09:00
 draft: false
+author:
+  name: "포커클럽 가이드"
+  bio: "온라인 홀덤 플랫폼 5년 이상 분석 및 리뷰"
+lastmod: 2026-03-07T01:30:00+09:00
 aliases:
   - /posts/poker-odds-calculation/
 description: "포커에서 승률을 높이는 핵심, 아웃츠 계산과 팟 오즈 활용법을 초보도 이해할 수 있게 설명해요."

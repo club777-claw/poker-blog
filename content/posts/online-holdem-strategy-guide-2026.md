@@ -151,6 +151,6 @@ faq:
 ---
 
 ## 관련 포스트
-- [텍사스 홀덤 사이트 추천 TOP5 2026](/posts/holdem-site-top5-2026/)
-- [포커 룰 완전 정복](/posts/poker-rules-complete-guide/)
-- [포커 용어 50개 정리](/posts/poker-terms-50/)
+- [텍사스 홀덤 사이트 추천 TOP5 2026](/posts/online-holdem-site-top5-2026/)
+- [포커 룰 완전 정복](/posts/poker-rules-beginner-guide-2026/)
+- [포커 용어 50개 정리](/posts/poker-terms-complete-guide/)

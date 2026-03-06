@@ -2,6 +2,10 @@
 title: "텍사스 홀덤 초보 가이드 — 규칙부터 기본 전략까지"
 date: 2026-02-13T10:00:00+09:00
 draft: false
+author:
+  name: "포커클럽 가이드"
+  bio: "온라인 홀덤 플랫폼 5년 이상 분석 및 리뷰"
+lastmod: 2026-03-07T01:30:00+09:00
 aliases:
   - /posts/texas-holdem-beginner-guide/
 description: "텍사스 홀덤의 기본 규칙, 게임 진행 순서, 초보자가 알아야 할 핵심 전략을 쉽게 정리했어요."

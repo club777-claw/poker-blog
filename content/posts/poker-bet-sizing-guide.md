@@ -2,6 +2,10 @@
 title: "포커 베팅 사이즈 완벽 가이드 — 얼마를 걸어야 할까?"
 date: 2026-02-23T10:00:00+09:00
 draft: false
+author:
+  name: "포커클럽 가이드"
+  bio: "온라인 홀덤 플랫폼 5년 이상 분석 및 리뷰"
+lastmod: 2026-03-07T01:30:00+09:00
 aliases:
   - /posts/poker-bet-sizing-guide/
 description: "포커에서 베팅 사이즈를 정하는 원리와 상황별 적정 금액을 초보도 쉽게 이해할 수 있도록 정리했어요."

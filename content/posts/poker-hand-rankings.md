@@ -2,6 +2,10 @@
 title: "포커 핸드 순위 완벽 정리 — 족보 한 번에 외우는 법"
 date: 2026-02-13T11:00:00+09:00
 draft: false
+author:
+  name: "포커클럽 가이드"
+  bio: "온라인 홀덤 플랫폼 5년 이상 분석 및 리뷰"
+lastmod: 2026-03-07T01:30:00+09:00
 aliases:
   - /posts/poker-hand-rankings/
 description: "포커 족보(핸드 랭킹)를 강한 순서대로 정리하고, 쉽게 외우는 방법까지 알려드려요."

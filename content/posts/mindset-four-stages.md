@@ -94,5 +94,5 @@ Reddit r/poker 고수 스레드에서 반복적으로 등장한 내용이다.
 포커 멘탈은 타고나는 게 아니다. 각 감정의 시그널을 인식하고, 루틴으로 교정하는 훈련이다. 두려움·욕심·좌절·지루함 — 이 4가지를 다루는 법을 익히면, 같은 핸드 레인지로도 결과가 달라진다.
 
 관련 글:
-- [GTO vs Exploit — 언제 어떤 전략을 써야 하는가](/posts/gto-vs-exploit/)
-- [멀티웨이 팟 전략 — 3명 이상일 때 달라지는 것들](/posts/multiway-pot-strategy/)
+- [GTO vs Exploit — 언제 어떤 전략을 써야 하는가](/posts/poker-gto-vs-exploit/)
+- [멀티웨이 팟 전략 — 3명 이상일 때 달라지는 것들](/posts/poker-multiway-pot-strategy/)
