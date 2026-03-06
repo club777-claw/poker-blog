@@ -9,7 +9,6 @@ keywords: ["포커 전략", "홀덤 전략", "온라인 홀덤 전략", "포커 
 author:
   name: "포커클럽 가이드"
   bio: "온라인 홀덤 플랫폼 5년 이상 분석 및 리뷰"
-lastmod: 2026-03-06
 faq:
   - question: "포커 초보가 가장 먼저 배워야 할 전략은?"
     answer: "핸드 선택(Starting Hand Selection)입니다. 강한 핸드만 플레이하고 약한 핸드는 과감히 폴드하는 것이 승률의 기반입니다."
