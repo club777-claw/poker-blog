@@ -5,7 +5,7 @@ lastmod: 2026-03-07T07:30:00+08:00
 description: "홀덤 연속 베팅(플랍 이후 베팅)이란 무엇인지, 언제 사용하고 언제 멈춰야 하는지 2026년 최신 기준으로 완벽 분석합니다."
 tags: ["홀덤전략", "컨티뉴에이션벳", "Cbet", "텍사스홀덤", "포커전략", "GTO"]
 categories: ["홀덤전략"]
-author: "Club777 포커 전략팀"
+author: "포커클럽 가이드"
 draft: false
 faq:
   - question: "홀덤 컨티뉴에이션 벳(C-bet)이란?"

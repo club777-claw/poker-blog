@@ -2,9 +2,7 @@
 title: "포커 핸드 순위 완벽 정리 — 족보 한 번에 외우는 법"
 date: 2026-02-13T11:00:00+09:00
 draft: false
-author:
-  name: "포커클럽 가이드"
-  bio: "온라인 홀덤 플랫폼 5년 이상 분석 및 리뷰"
+author: "포커클럽 가이드"
 lastmod: 2026-03-07T01:30:00+09:00
 aliases:
   - /posts/poker-hand-rankings/
